@@ -1,0 +1,9 @@
+.Polaris-Stack.Polaris-Stack--vertical img {
+    display: none;
+}
+
+.cellStyle{
+    padding-right: 10px;
+    text-align: left;
+    width: 135px;
+}
